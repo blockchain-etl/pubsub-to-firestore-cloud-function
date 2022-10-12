@@ -21,7 +21,7 @@ firebase login --reauth --no-localhost
 ## Create a Firestore database
 
 Visit
-[https://console.firebase.google.com/project/exchange-flow-demo/firestore](https://console.firebase.google.com/project/exchange-flow-demo/firestore)
+[https://console.firebase.google.com/project/`<PROJECT-NAME>`/firestore](https://console.firebase.google.com/project/exchange-flow-demo/firestore)
 
 We recommend creating in `production` mode, data stored in `nam5`
 (`us-central`).
