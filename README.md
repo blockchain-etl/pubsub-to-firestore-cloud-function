@@ -4,7 +4,7 @@ Google Cloud Function that pulls messages from Pub/Sub and saves them in
 Firestore.
 
 This documentation builds upon that in the repo
-[blockchain-etl/bigquery-to-pubsub](/blockchain-etl/bigquery-to-pubsub).
+[blockchain-etl/bigquery-to-pubsub](https://github.com/blockchain-etl/bigquery-to-pubsub).
 
 ## Connect to Google Cloud
 ```bash
